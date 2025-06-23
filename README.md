@@ -1,7 +1,7 @@
 ## Hi, I'm Prajjwol ✨
 
 🎓 BCSIT student at Pokhara University <br/>
-💻 Passionate about Full Stack Development — always learning and building <br/>
+💻 Passionate about Full Stack Development — with a passion for continuous learning and building <br/>
 🛠️ Open to help with coding, web projects, and tech problem-solving <br/>
 📚 Happy to chat about programming, frameworks, and dev journeys <br/>
 📬 Connect with me:
