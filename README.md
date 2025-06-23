@@ -17,10 +17,6 @@
 
 ---
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajjwol0&layout=compact&theme=radical)
-
-
----
 
 ## 📊 GitHub Stats
 
