@@ -22,7 +22,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prajjwol0&show_icons=true&theme=radical" alt="Prajjwol0's GitHub stats" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=Prajjwol0&theme=radical&hide_border=false" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Prajjwol0&theme=radical&hide_border=false" alt="Prajjwol's GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajjwol0&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
