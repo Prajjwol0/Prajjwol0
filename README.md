@@ -9,13 +9,10 @@
 
 ## 🚀 Tech Stack
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nestjs,react,postgres,mysql,html,css,git,github,npm" />
+</p>
+
 ---
 
 
@@ -32,7 +29,7 @@
 
 [![Instagram](https://img.shields.io/badge/@przl30-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/przl30)
 [![LinkedIn](https://img.shields.io/badge/prajjwol--pyakurel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prajjwol-pyakurel-516218304)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajjwolpyakurel11@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/przl07)
 
 ---
 
