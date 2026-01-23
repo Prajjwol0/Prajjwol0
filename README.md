@@ -32,4 +32,5 @@
 
 ---
 
-_“Code with purpose. Build with passion.”_
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
