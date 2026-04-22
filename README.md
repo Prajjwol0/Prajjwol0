@@ -6,7 +6,6 @@
 🤝 Always happy to connect and chat about programming, frameworks, and dev journeys  
 
 ---
-
 ## 🚀 Tech Stack
 
 <p align="center">
@@ -30,6 +29,7 @@
 </div>
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=prajjwol0)
 
 ## 📫 Let's Connect
 
@@ -38,6 +38,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/przl07)
 
 ---
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
