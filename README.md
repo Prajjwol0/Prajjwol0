@@ -3,7 +3,7 @@
 🎓 BCSIT student at Pokhara University  
 💻 Passionate about **Full Stack Development** with a love for learning, building, and problem-solving  
 🌐 Open to helping with coding, web projects, and technical challenges  
-🤝 Always happy to connect and chat about programming, frameworks, and dev journeys  
+🤝 Always happy to connect and chat about programming, frameworks, and dev journeys.
 
 ---
 ## 🚀 Tech Stack
