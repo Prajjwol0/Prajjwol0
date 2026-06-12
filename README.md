@@ -1,4 +1,4 @@
-# Hi, I'm Prajjwol :)
+# Hi! I'm Prajjwol :)
 
 🎓 BCSIT student at Pokhara University  
 💻 Passionate about **Full Stack Development** with a love for learning, building, and problem-solving  
